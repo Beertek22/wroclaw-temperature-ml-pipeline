@@ -1,0 +1,17 @@
+scenario,strategy,2025,2026
+pełna historia,persystencja,,2.359274193548387
+pełna historia,model statyczny,,2.144805095044284
+pełna historia,"co 7 dni, okno 60 dni",,2.633223587462175
+pełna historia,"co 14 dni, okno 60 dni",,2.59182789422616
+pełna historia,"co 28 dni, okno 60 dni",,2.670290150941663
+pełna historia,"co 7 dni, wszystkie dane",,2.138174371808673
+pełna historia,"co 14 dni, wszystkie dane",,2.1142036169245926
+pełna historia,"co 28 dni, wszystkie dane",,2.110682595033018
+zimny start,persystencja,2.2881222943722945,2.350534188034188
+zimny start,model statyczny,5.20737851756636,6.096169622545916
+zimny start,"co 7 dni, okno 60 dni",2.8276105344530724,2.7612124852026945
+zimny start,"co 14 dni, okno 60 dni",2.9546519296082647,2.742301283331905
+zimny start,"co 28 dni, okno 60 dni",3.071188607400518,2.888244630696626
+zimny start,"co 7 dni, wszystkie dane",2.5056667847668344,2.231231790713684
+zimny start,"co 14 dni, wszystkie dane",2.6426260903174033,2.2098010334045606
+zimny start,"co 28 dni, wszystkie dane",2.7283778113475545,2.2373456497926063

@@ -1,0 +1,31 @@
+# ── Środowisko Python ─────────────────────────────────────────────────────────
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# ── Edytory i system ─────────────────────────────────────────────────────────
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
+
+# ── Pliki generowane przez skrypty (można je odtworzyć) ──────────────────────
+# logi uruchomień
+logs/
+# wytrenowane modele .pkl (train.py, retrain.py)
+models/
+# artefakty MLflow (kopie modeli)
+mlruns/
+# historia uruchomień MLflow (ścieżki zależne od komputera)
+mlflow.db
+
+# ── Pliki tymczasowe SQLite ──────────────────────────────────────────────────
+*.db-journal
+*.db-wal
+*.db-shm
+
+# ── Lokalne kopie zapasowe (historię zmian prowadzi teraz git) ───────────────
+archiwum/

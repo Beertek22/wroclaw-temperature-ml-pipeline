@@ -1,0 +1,913 @@
+scenario,strategy,week,date,season,mae,n
+pełna historia,persystencja,0,2026-03-01,wiosna,1.2892857142857141,168
+pełna historia,persystencja,1,2026-03-08,wiosna,3.05,168
+pełna historia,persystencja,2,2026-03-15,wiosna,1.8160714285714288,168
+pełna historia,persystencja,3,2026-03-22,wiosna,1.7273809523809522,168
+pełna historia,persystencja,4,2026-03-29,wiosna,2.001190476190476,168
+pełna historia,persystencja,5,2026-04-05,wiosna,2.8726190476190476,168
+pełna historia,persystencja,6,2026-04-12,wiosna,1.7148809523809525,168
+pełna historia,persystencja,7,2026-04-19,wiosna,2.618452380952381,168
+pełna historia,persystencja,8,2026-04-26,wiosna,2.783928571428571,168
+pełna historia,persystencja,9,2026-05-03,wiosna,2.2226190476190473,168
+pełna historia,persystencja,10,2026-05-10,wiosna,2.1988095238095235,168
+pełna historia,persystencja,11,2026-05-17,wiosna,2.2113095238095237,168
+pełna historia,persystencja,12,2026-05-24,wiosna,2.8898809523809526,168
+pełna historia,persystencja,13,2026-05-31,wiosna,3.1220238095238093,168
+pełna historia,persystencja,14,2026-06-07,lato,2.6261904761904766,168
+pełna historia,persystencja,15,2026-06-14,lato,1.8964285714285716,168
+pełna historia,persystencja,16,2026-06-21,lato,2.6279761904761907,168
+pełna historia,persystencja,17,2026-06-28,lato,2.485119047619048,168
+pełna historia,persystencja,18,2026-07-05,lato,1.5017857142857143,168
+pełna historia,persystencja,19,2026-07-12,lato,2.6184523809523808,168
+pełna historia,persystencja,20,2026-07-19,lato,2.1529761904761906,168
+pełna historia,persystencja,21,2026-07-26,lato,3.2410714285714284,168
+pełna historia,persystencja,22,2026-08-02,lato,2.858333333333333,168
+pełna historia,persystencja,23,2026-08-09,lato,3.385714285714286,168
+pełna historia,persystencja,24,2026-08-16,lato,2.5404761904761903,168
+pełna historia,persystencja,25,2026-08-23,lato,2.0410714285714286,168
+pełna historia,persystencja,26,2026-08-30,lato,2.1345238095238095,168
+pełna historia,persystencja,27,2026-09-06,jesień,3.5452380952380955,168
+pełna historia,persystencja,28,2026-09-13,jesień,2.0779761904761904,168
+pełna historia,persystencja,29,2026-09-20,jesień,1.7285714285714289,168
+pełna historia,persystencja,30,2026-09-27,jesień,1.157142857142857,168
+pełna historia,model statyczny,0,2026-03-01,wiosna,1.8258278353738466,168
+pełna historia,model statyczny,1,2026-03-08,wiosna,2.303632687103181,168
+pełna historia,model statyczny,2,2026-03-15,wiosna,1.8421051470296723,168
+pełna historia,model statyczny,3,2026-03-22,wiosna,1.4811511740798042,168
+pełna historia,model statyczny,4,2026-03-29,wiosna,2.241744464352018,168
+pełna historia,model statyczny,5,2026-04-05,wiosna,2.1722574798833754,168
+pełna historia,model statyczny,6,2026-04-12,wiosna,1.9232649456887017,168
+pełna historia,model statyczny,7,2026-04-19,wiosna,2.158629762842542,168
+pełna historia,model statyczny,8,2026-04-26,wiosna,2.1146861025265284,168
+pełna historia,model statyczny,9,2026-05-03,wiosna,2.028428716318948,168
+pełna historia,model statyczny,10,2026-05-10,wiosna,2.3681569899831496,168
+pełna historia,model statyczny,11,2026-05-17,wiosna,1.6128728219441004,168
+pełna historia,model statyczny,12,2026-05-24,wiosna,1.9334790865580243,168
+pełna historia,model statyczny,13,2026-05-31,wiosna,2.2382864963440667,168
+pełna historia,model statyczny,14,2026-06-07,lato,2.0238754306520734,168
+pełna historia,model statyczny,15,2026-06-14,lato,3.6535883994329543,168
+pełna historia,model statyczny,16,2026-06-21,lato,3.6467764025642757,168
+pełna historia,model statyczny,17,2026-06-28,lato,3.066780702273051,168
+pełna historia,model statyczny,18,2026-07-05,lato,1.1996025936944144,168
+pełna historia,model statyczny,19,2026-07-12,lato,2.196448100180853,168
+pełna historia,model statyczny,20,2026-07-19,lato,2.096401069277809,168
+pełna historia,model statyczny,21,2026-07-26,lato,2.5336842605045864,168
+pełna historia,model statyczny,22,2026-08-02,lato,3.329212506612142,168
+pełna historia,model statyczny,23,2026-08-09,lato,1.9366568769727435,168
+pełna historia,model statyczny,24,2026-08-16,lato,2.4571877604439143,168
+pełna historia,model statyczny,25,2026-08-23,lato,1.4731294859023323,168
+pełna historia,model statyczny,26,2026-08-30,lato,1.6097286712555658,168
+pełna historia,model statyczny,27,2026-09-06,jesień,2.3495091131755284,168
+pełna historia,model statyczny,28,2026-09-13,jesień,1.5017537446249098,168
+pełna historia,model statyczny,29,2026-09-20,jesień,1.9082097337359476,168
+pełna historia,model statyczny,30,2026-09-27,jesień,1.2618893850417363,168
+pełna historia,"co 7 dni, okno 60 dni",0,2026-03-01,wiosna,1.8258278353738466,168
+pełna historia,"co 7 dni, okno 60 dni",1,2026-03-08,wiosna,3.4861484418135316,168
+pełna historia,"co 7 dni, okno 60 dni",2,2026-03-15,wiosna,2.844042990463121,168
+pełna historia,"co 7 dni, okno 60 dni",3,2026-03-22,wiosna,1.7381727090903691,168
+pełna historia,"co 7 dni, okno 60 dni",4,2026-03-29,wiosna,1.9756921841984703,168
+pełna historia,"co 7 dni, okno 60 dni",5,2026-04-05,wiosna,2.1093105933318532,168
+pełna historia,"co 7 dni, okno 60 dni",6,2026-04-12,wiosna,3.657490396215802,168
+pełna historia,"co 7 dni, okno 60 dni",7,2026-04-19,wiosna,2.300270017839613,168
+pełna historia,"co 7 dni, okno 60 dni",8,2026-04-26,wiosna,4.422903760504864,168
+pełna historia,"co 7 dni, okno 60 dni",9,2026-05-03,wiosna,3.3792139161200754,168
+pełna historia,"co 7 dni, okno 60 dni",10,2026-05-10,wiosna,2.030409370149885,168
+pełna historia,"co 7 dni, okno 60 dni",11,2026-05-17,wiosna,2.4974703567368643,168
+pełna historia,"co 7 dni, okno 60 dni",12,2026-05-24,wiosna,2.5439756172043935,168
+pełna historia,"co 7 dni, okno 60 dni",13,2026-05-31,wiosna,2.8915624062220253,168
+pełna historia,"co 7 dni, okno 60 dni",14,2026-06-07,lato,2.5966094732284546,168
+pełna historia,"co 7 dni, okno 60 dni",15,2026-06-14,lato,6.20070554755983,168
+pełna historia,"co 7 dni, okno 60 dni",16,2026-06-21,lato,3.2965050765446255,168
+pełna historia,"co 7 dni, okno 60 dni",17,2026-06-28,lato,3.144709051223028,168
+pełna historia,"co 7 dni, okno 60 dni",18,2026-07-05,lato,1.3262811819712321,168
+pełna historia,"co 7 dni, okno 60 dni",19,2026-07-12,lato,2.014359919230143,168
+pełna historia,"co 7 dni, okno 60 dni",20,2026-07-19,lato,2.6518797987983342,168
+pełna historia,"co 7 dni, okno 60 dni",21,2026-07-26,lato,2.107903896059309,168
+pełna historia,"co 7 dni, okno 60 dni",22,2026-08-02,lato,2.589748910495213,168
+pełna historia,"co 7 dni, okno 60 dni",23,2026-08-09,lato,2.729879867462885,168
+pełna historia,"co 7 dni, okno 60 dni",24,2026-08-16,lato,2.0529580241157896,168
+pełna historia,"co 7 dni, okno 60 dni",25,2026-08-23,lato,1.9739280984515237,168
+pełna historia,"co 7 dni, okno 60 dni",26,2026-08-30,lato,1.7385772262300763,168
+pełna historia,"co 7 dni, okno 60 dni",27,2026-09-06,jesień,3.3568696305865338,168
+pełna historia,"co 7 dni, okno 60 dni",28,2026-09-13,jesień,2.0313453492664157,168
+pełna historia,"co 7 dni, okno 60 dni",29,2026-09-20,jesień,2.6512744733265468,168
+pełna historia,"co 7 dni, okno 60 dni",30,2026-09-27,jesień,1.463905091512771,168
+pełna historia,"co 14 dni, okno 60 dni",0,2026-03-01,wiosna,1.8258278353738466,168
+pełna historia,"co 14 dni, okno 60 dni",1,2026-03-08,wiosna,2.303632687103181,168
+pełna historia,"co 14 dni, okno 60 dni",2,2026-03-15,wiosna,2.844042990463121,168
+pełna historia,"co 14 dni, okno 60 dni",3,2026-03-22,wiosna,2.1622090372301286,168
+pełna historia,"co 14 dni, okno 60 dni",4,2026-03-29,wiosna,1.9756921841984703,168
+pełna historia,"co 14 dni, okno 60 dni",5,2026-04-05,wiosna,1.8797647823091774,168
+pełna historia,"co 14 dni, okno 60 dni",6,2026-04-12,wiosna,3.657490396215802,168
+pełna historia,"co 14 dni, okno 60 dni",7,2026-04-19,wiosna,2.208690463503202,168
+pełna historia,"co 14 dni, okno 60 dni",8,2026-04-26,wiosna,4.422903760504864,168
+pełna historia,"co 14 dni, okno 60 dni",9,2026-05-03,wiosna,4.1639944661231265,168
+pełna historia,"co 14 dni, okno 60 dni",10,2026-05-10,wiosna,2.030409370149885,168
+pełna historia,"co 14 dni, okno 60 dni",11,2026-05-17,wiosna,3.301518063885825,168
+pełna historia,"co 14 dni, okno 60 dni",12,2026-05-24,wiosna,2.5439756172043935,168
+pełna historia,"co 14 dni, okno 60 dni",13,2026-05-31,wiosna,3.181195164862133,168
+pełna historia,"co 14 dni, okno 60 dni",14,2026-06-07,lato,2.5966094732284546,168
+pełna historia,"co 14 dni, okno 60 dni",15,2026-06-14,lato,4.665425433431354,168
+pełna historia,"co 14 dni, okno 60 dni",16,2026-06-21,lato,3.2965050765446255,168
+pełna historia,"co 14 dni, okno 60 dni",17,2026-06-28,lato,3.051448336101714,168
+pełna historia,"co 14 dni, okno 60 dni",18,2026-07-05,lato,1.3262811819712321,168
+pełna historia,"co 14 dni, okno 60 dni",19,2026-07-12,lato,2.1116518531526838,168
+pełna historia,"co 14 dni, okno 60 dni",20,2026-07-19,lato,2.6518797987983342,168
+pełna historia,"co 14 dni, okno 60 dni",21,2026-07-26,lato,2.4210479191371372,168
+pełna historia,"co 14 dni, okno 60 dni",22,2026-08-02,lato,2.589748910495213,168
+pełna historia,"co 14 dni, okno 60 dni",23,2026-08-09,lato,2.4970811730339415,168
+pełna historia,"co 14 dni, okno 60 dni",24,2026-08-16,lato,2.0529580241157896,168
+pełna historia,"co 14 dni, okno 60 dni",25,2026-08-23,lato,1.8942137059711275,168
+pełna historia,"co 14 dni, okno 60 dni",26,2026-08-30,lato,1.7385772262300763,168
+pełna historia,"co 14 dni, okno 60 dni",27,2026-09-06,jesień,2.982968626703535,168
+pełna historia,"co 14 dni, okno 60 dni",28,2026-09-13,jesień,2.0313453492664157,168
+pełna historia,"co 14 dni, okno 60 dni",29,2026-09-20,jesień,2.4736707221894036,168
+pełna historia,"co 14 dni, okno 60 dni",30,2026-09-27,jesień,1.463905091512771,168
+pełna historia,"co 28 dni, okno 60 dni",0,2026-03-01,wiosna,1.8258278353738466,168
+pełna historia,"co 28 dni, okno 60 dni",1,2026-03-08,wiosna,2.303632687103181,168
+pełna historia,"co 28 dni, okno 60 dni",2,2026-03-15,wiosna,1.8421051470296723,168
+pełna historia,"co 28 dni, okno 60 dni",3,2026-03-22,wiosna,1.4811511740798042,168
+pełna historia,"co 28 dni, okno 60 dni",4,2026-03-29,wiosna,1.9756921841984703,168
+pełna historia,"co 28 dni, okno 60 dni",5,2026-04-05,wiosna,1.8797647823091774,168
+pełna historia,"co 28 dni, okno 60 dni",6,2026-04-12,wiosna,3.210911501873107,168
+pełna historia,"co 28 dni, okno 60 dni",7,2026-04-19,wiosna,1.93576564732052,168
+pełna historia,"co 28 dni, okno 60 dni",8,2026-04-26,wiosna,4.422903760504864,168
+pełna historia,"co 28 dni, okno 60 dni",9,2026-05-03,wiosna,4.1639944661231265,168
+pełna historia,"co 28 dni, okno 60 dni",10,2026-05-10,wiosna,1.9214766536440169,168
+pełna historia,"co 28 dni, okno 60 dni",11,2026-05-17,wiosna,5.181752705574036,168
+pełna historia,"co 28 dni, okno 60 dni",12,2026-05-24,wiosna,2.5439756172043935,168
+pełna historia,"co 28 dni, okno 60 dni",13,2026-05-31,wiosna,3.181195164862133,168
+pełna historia,"co 28 dni, okno 60 dni",14,2026-06-07,lato,2.0659369866053265,168
+pełna historia,"co 28 dni, okno 60 dni",15,2026-06-14,lato,3.6797157832554412,168
+pełna historia,"co 28 dni, okno 60 dni",16,2026-06-21,lato,3.2965050765446255,168
+pełna historia,"co 28 dni, okno 60 dni",17,2026-06-28,lato,3.051448336101714,168
+pełna historia,"co 28 dni, okno 60 dni",18,2026-07-05,lato,2.0501668941406974,168
+pełna historia,"co 28 dni, okno 60 dni",19,2026-07-12,lato,2.558422156742641,168
+pełna historia,"co 28 dni, okno 60 dni",20,2026-07-19,lato,2.6518797987983342,168
+pełna historia,"co 28 dni, okno 60 dni",21,2026-07-26,lato,2.4210479191371372,168
+pełna historia,"co 28 dni, okno 60 dni",22,2026-08-02,lato,2.746666157813299,168
+pełna historia,"co 28 dni, okno 60 dni",23,2026-08-09,lato,2.7447325751895,168
+pełna historia,"co 28 dni, okno 60 dni",24,2026-08-16,lato,2.0529580241157896,168
+pełna historia,"co 28 dni, okno 60 dni",25,2026-08-23,lato,1.8942137059711275,168
+pełna historia,"co 28 dni, okno 60 dni",26,2026-08-30,lato,2.3861856142679847,168
+pełna historia,"co 28 dni, okno 60 dni",27,2026-09-06,jesień,3.549529102870396,168
+pełna historia,"co 28 dni, okno 60 dni",28,2026-09-13,jesień,2.0313453492664157,168
+pełna historia,"co 28 dni, okno 60 dni",29,2026-09-20,jesień,2.4736707221894036,168
+pełna historia,"co 28 dni, okno 60 dni",30,2026-09-27,jesień,3.254421148981367,168
+pełna historia,"co 7 dni, wszystkie dane",0,2026-03-01,wiosna,1.8258278353738466,168
+pełna historia,"co 7 dni, wszystkie dane",1,2026-03-08,wiosna,2.440951741380351,168
+pełna historia,"co 7 dni, wszystkie dane",2,2026-03-15,wiosna,1.9566270484810784,168
+pełna historia,"co 7 dni, wszystkie dane",3,2026-03-22,wiosna,1.3950617895239876,168
+pełna historia,"co 7 dni, wszystkie dane",4,2026-03-29,wiosna,2.163140157574699,168
+pełna historia,"co 7 dni, wszystkie dane",5,2026-04-05,wiosna,2.2075714247567313,168
+pełna historia,"co 7 dni, wszystkie dane",6,2026-04-12,wiosna,2.0110702298936394,168
+pełna historia,"co 7 dni, wszystkie dane",7,2026-04-19,wiosna,2.278570871693747,168
+pełna historia,"co 7 dni, wszystkie dane",8,2026-04-26,wiosna,2.2025984687464577,168
+pełna historia,"co 7 dni, wszystkie dane",9,2026-05-03,wiosna,2.0973539874667213,168
+pełna historia,"co 7 dni, wszystkie dane",10,2026-05-10,wiosna,2.4862640817960107,168
+pełna historia,"co 7 dni, wszystkie dane",11,2026-05-17,wiosna,1.611344816003527,168
+pełna historia,"co 7 dni, wszystkie dane",12,2026-05-24,wiosna,2.016888856887818,168
+pełna historia,"co 7 dni, wszystkie dane",13,2026-05-31,wiosna,2.2353355782372613,168
+pełna historia,"co 7 dni, wszystkie dane",14,2026-06-07,lato,2.2677416767392837,168
+pełna historia,"co 7 dni, wszystkie dane",15,2026-06-14,lato,3.9836336147217524,168
+pełna historia,"co 7 dni, wszystkie dane",16,2026-06-21,lato,2.996986943199521,168
+pełna historia,"co 7 dni, wszystkie dane",17,2026-06-28,lato,2.6011050746554423,168
+pełna historia,"co 7 dni, wszystkie dane",18,2026-07-05,lato,1.2202177479153589,168
+pełna historia,"co 7 dni, wszystkie dane",19,2026-07-12,lato,2.1885633763812837,168
+pełna historia,"co 7 dni, wszystkie dane",20,2026-07-19,lato,2.139459572519575,168
+pełna historia,"co 7 dni, wszystkie dane",21,2026-07-26,lato,2.2979147479647684,168
+pełna historia,"co 7 dni, wszystkie dane",22,2026-08-02,lato,2.7014173609869823,168
+pełna historia,"co 7 dni, wszystkie dane",23,2026-08-09,lato,2.34606363773346,168
+pełna historia,"co 7 dni, wszystkie dane",24,2026-08-16,lato,2.491246701422192,168
+pełna historia,"co 7 dni, wszystkie dane",25,2026-08-23,lato,1.585941492943537,168
+pełna historia,"co 7 dni, wszystkie dane",26,2026-08-30,lato,1.4294457969211396,168
+pełna historia,"co 7 dni, wszystkie dane",27,2026-09-06,jesień,2.397948971248808,168
+pełna historia,"co 7 dni, wszystkie dane",28,2026-09-13,jesień,1.5634302877244497,168
+pełna historia,"co 7 dni, wszystkie dane",29,2026-09-20,jesień,1.8547298403013321,168
+pełna historia,"co 7 dni, wszystkie dane",30,2026-09-27,jesień,1.2889517948741005,168
+pełna historia,"co 14 dni, wszystkie dane",0,2026-03-01,wiosna,1.8258278353738466,168
+pełna historia,"co 14 dni, wszystkie dane",1,2026-03-08,wiosna,2.303632687103181,168
+pełna historia,"co 14 dni, wszystkie dane",2,2026-03-15,wiosna,1.9566270484810784,168
+pełna historia,"co 14 dni, wszystkie dane",3,2026-03-22,wiosna,1.456934627039092,168
+pełna historia,"co 14 dni, wszystkie dane",4,2026-03-29,wiosna,2.163140157574699,168
+pełna historia,"co 14 dni, wszystkie dane",5,2026-04-05,wiosna,2.3280111908912655,168
+pełna historia,"co 14 dni, wszystkie dane",6,2026-04-12,wiosna,2.0110702298936394,168
+pełna historia,"co 14 dni, wszystkie dane",7,2026-04-19,wiosna,2.241754899706159,168
+pełna historia,"co 14 dni, wszystkie dane",8,2026-04-26,wiosna,2.2025984687464577,168
+pełna historia,"co 14 dni, wszystkie dane",9,2026-05-03,wiosna,2.1304827156521022,168
+pełna historia,"co 14 dni, wszystkie dane",10,2026-05-10,wiosna,2.4862640817960107,168
+pełna historia,"co 14 dni, wszystkie dane",11,2026-05-17,wiosna,1.5314352404503597,168
+pełna historia,"co 14 dni, wszystkie dane",12,2026-05-24,wiosna,2.016888856887818,168
+pełna historia,"co 14 dni, wszystkie dane",13,2026-05-31,wiosna,2.2514457816169378,168
+pełna historia,"co 14 dni, wszystkie dane",14,2026-06-07,lato,2.2677416767392837,168
+pełna historia,"co 14 dni, wszystkie dane",15,2026-06-14,lato,3.6800741490863618,168
+pełna historia,"co 14 dni, wszystkie dane",16,2026-06-21,lato,2.996986943199521,168
+pełna historia,"co 14 dni, wszystkie dane",17,2026-06-28,lato,2.8399077006748747,168
+pełna historia,"co 14 dni, wszystkie dane",18,2026-07-05,lato,1.2202177479153589,168
+pełna historia,"co 14 dni, wszystkie dane",19,2026-07-12,lato,2.2102249349866594,168
+pełna historia,"co 14 dni, wszystkie dane",20,2026-07-19,lato,2.139459572519575,168
+pełna historia,"co 14 dni, wszystkie dane",21,2026-07-26,lato,2.1594890832901004,168
+pełna historia,"co 14 dni, wszystkie dane",22,2026-08-02,lato,2.7014173609869823,168
+pełna historia,"co 14 dni, wszystkie dane",23,2026-08-09,lato,2.0032501561301097,168
+pełna historia,"co 14 dni, wszystkie dane",24,2026-08-16,lato,2.491246701422192,168
+pełna historia,"co 14 dni, wszystkie dane",25,2026-08-23,lato,1.4858312334333146,168
+pełna historia,"co 14 dni, wszystkie dane",26,2026-08-30,lato,1.4294457969211396,168
+pełna historia,"co 14 dni, wszystkie dane",27,2026-09-06,jesień,2.3403452884583245,168
+pełna historia,"co 14 dni, wszystkie dane",28,2026-09-13,jesień,1.5634302877244497,168
+pełna historia,"co 14 dni, wszystkie dane",29,2026-09-20,jesień,1.8161778750873747,168
+pełna historia,"co 14 dni, wszystkie dane",30,2026-09-27,jesień,1.2889517948741005,168
+pełna historia,"co 28 dni, wszystkie dane",0,2026-03-01,wiosna,1.8258278353738466,168
+pełna historia,"co 28 dni, wszystkie dane",1,2026-03-08,wiosna,2.303632687103181,168
+pełna historia,"co 28 dni, wszystkie dane",2,2026-03-15,wiosna,1.8421051470296723,168
+pełna historia,"co 28 dni, wszystkie dane",3,2026-03-22,wiosna,1.4811511740798042,168
+pełna historia,"co 28 dni, wszystkie dane",4,2026-03-29,wiosna,2.163140157574699,168
+pełna historia,"co 28 dni, wszystkie dane",5,2026-04-05,wiosna,2.3280111908912655,168
+pełna historia,"co 28 dni, wszystkie dane",6,2026-04-12,wiosna,2.0022736435844783,168
+pełna historia,"co 28 dni, wszystkie dane",7,2026-04-19,wiosna,2.2019948025544482,168
+pełna historia,"co 28 dni, wszystkie dane",8,2026-04-26,wiosna,2.2025984687464577,168
+pełna historia,"co 28 dni, wszystkie dane",9,2026-05-03,wiosna,2.1304827156521022,168
+pełna historia,"co 28 dni, wszystkie dane",10,2026-05-10,wiosna,2.596418561821892,168
+pełna historia,"co 28 dni, wszystkie dane",11,2026-05-17,wiosna,1.6445309644653687,168
+pełna historia,"co 28 dni, wszystkie dane",12,2026-05-24,wiosna,2.016888856887818,168
+pełna historia,"co 28 dni, wszystkie dane",13,2026-05-31,wiosna,2.2514457816169378,168
+pełna historia,"co 28 dni, wszystkie dane",14,2026-06-07,lato,2.068062802723476,168
+pełna historia,"co 28 dni, wszystkie dane",15,2026-06-14,lato,3.5125494480133055,168
+pełna historia,"co 28 dni, wszystkie dane",16,2026-06-21,lato,2.996986943199521,168
+pełna historia,"co 28 dni, wszystkie dane",17,2026-06-28,lato,2.8399077006748747,168
+pełna historia,"co 28 dni, wszystkie dane",18,2026-07-05,lato,1.1181212947482155,168
+pełna historia,"co 28 dni, wszystkie dane",19,2026-07-12,lato,2.2263933442887804,168
+pełna historia,"co 28 dni, wszystkie dane",20,2026-07-19,lato,2.139459572519575,168
+pełna historia,"co 28 dni, wszystkie dane",21,2026-07-26,lato,2.1594890832901004,168
+pełna historia,"co 28 dni, wszystkie dane",22,2026-08-02,lato,2.6177412543978016,168
+pełna historia,"co 28 dni, wszystkie dane",23,2026-08-09,lato,2.2061953771682012,168
+pełna historia,"co 28 dni, wszystkie dane",24,2026-08-16,lato,2.491246701422192,168
+pełna historia,"co 28 dni, wszystkie dane",25,2026-08-23,lato,1.4858312334333146,168
+pełna historia,"co 28 dni, wszystkie dane",26,2026-08-30,lato,1.5185675938924155,168
+pełna historia,"co 28 dni, wszystkie dane",27,2026-09-06,jesień,2.333880500566392,168
+pełna historia,"co 28 dni, wszystkie dane",28,2026-09-13,jesień,1.5634302877244497,168
+pełna historia,"co 28 dni, wszystkie dane",29,2026-09-20,jesień,1.8161778750873747,168
+pełna historia,"co 28 dni, wszystkie dane",30,2026-09-27,jesień,1.3466174454916089,168
+zimny start,persystencja,0,2025-03-01,wiosna,2.3000000000000003,168
+zimny start,persystencja,1,2025-03-08,wiosna,2.4523809523809526,168
+zimny start,persystencja,2,2025-03-15,wiosna,2.2797619047619047,168
+zimny start,persystencja,3,2025-03-22,wiosna,2.3625,168
+zimny start,persystencja,4,2025-03-29,wiosna,3.1255952380952374,168
+zimny start,persystencja,5,2025-04-05,wiosna,2.538095238095238,168
+zimny start,persystencja,6,2025-04-12,wiosna,3.4065476190476187,168
+zimny start,persystencja,7,2025-04-19,wiosna,2.0630952380952383,168
+zimny start,persystencja,8,2025-04-26,wiosna,2.3839285714285716,168
+zimny start,persystencja,9,2025-05-03,wiosna,2.068452380952381,168
+zimny start,persystencja,10,2025-05-10,wiosna,2.7690476190476185,168
+zimny start,persystencja,11,2025-05-17,wiosna,2.373214285714286,168
+zimny start,persystencja,12,2025-05-24,wiosna,2.2392857142857143,168
+zimny start,persystencja,13,2025-05-31,wiosna,1.7791666666666666,168
+zimny start,persystencja,14,2025-06-07,lato,2.536904761904762,168
+zimny start,persystencja,15,2025-06-14,lato,3.510119047619048,168
+zimny start,persystencja,16,2025-06-21,lato,3.5428571428571423,168
+zimny start,persystencja,17,2025-06-28,lato,3.3511904761904763,168
+zimny start,persystencja,18,2025-07-05,lato,2.244047619047619,168
+zimny start,persystencja,19,2025-07-12,lato,2.220833333333333,168
+zimny start,persystencja,20,2025-07-19,lato,1.6297619047619045,168
+zimny start,persystencja,21,2025-07-26,lato,1.3529761904761906,168
+zimny start,persystencja,22,2025-08-02,lato,2.143452380952381,168
+zimny start,persystencja,23,2025-08-09,lato,2.3535714285714286,168
+zimny start,persystencja,24,2025-08-16,lato,2.2220238095238094,168
+zimny start,persystencja,25,2025-08-23,lato,2.4875,168
+zimny start,persystencja,26,2025-08-30,lato,2.2458333333333336,168
+zimny start,persystencja,27,2025-09-06,jesień,1.5625,168
+zimny start,persystencja,28,2025-09-13,jesień,2.8583333333333334,168
+zimny start,persystencja,29,2025-09-20,jesień,2.2505952380952383,168
+zimny start,persystencja,30,2025-09-27,jesień,1.8583333333333336,168
+zimny start,persystencja,31,2025-10-04,jesień,1.6607142857142858,168
+zimny start,persystencja,32,2025-10-11,jesień,2.1363095238095235,168
+zimny start,persystencja,33,2025-10-18,jesień,2.268452380952381,168
+zimny start,persystencja,34,2025-10-25,jesień,2.1666666666666665,168
+zimny start,persystencja,35,2025-11-01,jesień,1.4166666666666667,168
+zimny start,persystencja,36,2025-11-08,jesień,1.5601190476190478,168
+zimny start,persystencja,37,2025-11-15,jesień,2.4422619047619047,168
+zimny start,persystencja,38,2025-11-22,jesień,2.0702380952380954,168
+zimny start,persystencja,39,2025-11-29,jesień,1.1529761904761904,168
+zimny start,persystencja,40,2025-12-06,zima,3.155357142857143,168
+zimny start,persystencja,41,2025-12-13,zima,1.9672619047619047,168
+zimny start,persystencja,42,2025-12-20,zima,2.6041666666666665,168
+zimny start,persystencja,43,2025-12-27,zima,1.5642857142857143,168
+zimny start,persystencja,44,2026-01-03,zima,2.1095238095238096,168
+zimny start,persystencja,45,2026-01-10,zima,2.1583333333333337,168
+zimny start,persystencja,46,2026-01-17,zima,1.5005952380952379,168
+zimny start,persystencja,47,2026-01-24,zima,2.1166666666666663,168
+zimny start,persystencja,48,2026-01-31,zima,1.6351190476190476,168
+zimny start,persystencja,49,2026-02-07,zima,2.6357142857142857,168
+zimny start,persystencja,50,2026-02-14,zima,3.0964285714285715,168
+zimny start,persystencja,51,2026-02-21,zima,3.066666666666667,168
+zimny start,persystencja,52,2026-02-28,zima,1.5410714285714284,168
+zimny start,persystencja,53,2026-03-07,wiosna,2.7898809523809525,168
+zimny start,persystencja,54,2026-03-14,wiosna,2.0386904761904763,168
+zimny start,persystencja,55,2026-03-21,wiosna,1.75,168
+zimny start,persystencja,56,2026-03-28,wiosna,1.7648809523809523,168
+zimny start,persystencja,57,2026-04-04,wiosna,2.7392857142857148,168
+zimny start,persystencja,58,2026-04-11,wiosna,2.043452380952381,168
+zimny start,persystencja,59,2026-04-18,wiosna,2.329761904761905,168
+zimny start,persystencja,60,2026-04-25,wiosna,3.0017857142857145,168
+zimny start,persystencja,61,2026-05-02,wiosna,2.0976190476190477,168
+zimny start,persystencja,62,2026-05-09,wiosna,2.4261904761904765,168
+zimny start,persystencja,63,2026-05-16,wiosna,2.1303571428571426,168
+zimny start,persystencja,64,2026-05-23,wiosna,2.9839285714285717,168
+zimny start,persystencja,65,2026-05-30,wiosna,3.1541666666666663,168
+zimny start,persystencja,66,2026-06-06,lato,2.5779761904761904,168
+zimny start,persystencja,67,2026-06-13,lato,1.9273809523809522,168
+zimny start,persystencja,68,2026-06-20,lato,2.6113095238095236,168
+zimny start,persystencja,69,2026-06-27,lato,2.4970238095238093,168
+zimny start,persystencja,70,2026-07-04,lato,1.5065476190476192,168
+zimny start,persystencja,71,2026-07-11,lato,2.413095238095238,168
+zimny start,persystencja,72,2026-07-18,lato,2.2696428571428573,168
+zimny start,persystencja,73,2026-07-25,lato,3.336904761904763,168
+zimny start,persystencja,74,2026-08-01,lato,2.6130952380952377,168
+zimny start,persystencja,75,2026-08-08,lato,3.3845238095238095,168
+zimny start,persystencja,76,2026-08-15,lato,2.6970238095238095,168
+zimny start,persystencja,77,2026-08-22,lato,2.0678571428571426,168
+zimny start,persystencja,78,2026-08-29,lato,1.963690476190476,168
+zimny start,persystencja,79,2026-09-05,jesień,3.663095238095238,168
+zimny start,persystencja,80,2026-09-12,jesień,2.054761904761905,168
+zimny start,persystencja,81,2026-09-19,jesień,1.8250000000000002,168
+zimny start,persystencja,82,2026-09-26,jesień,1.1517857142857142,168
+zimny start,model statyczny,0,2025-03-01,wiosna,2.8446102303563663,168
+zimny start,model statyczny,1,2025-03-08,wiosna,2.486363073535973,168
+zimny start,model statyczny,2,2025-03-15,wiosna,2.2598103981775544,168
+zimny start,model statyczny,3,2025-03-22,wiosna,2.660334080670561,168
+zimny start,model statyczny,4,2025-03-29,wiosna,3.132666607981636,168
+zimny start,model statyczny,5,2025-04-05,wiosna,3.24653084590765,168
+zimny start,model statyczny,6,2025-04-12,wiosna,7.421077262219929,168
+zimny start,model statyczny,7,2025-04-19,wiosna,4.840339274065836,168
+zimny start,model statyczny,8,2025-04-26,wiosna,6.696087304751077,168
+zimny start,model statyczny,9,2025-05-03,wiosna,2.0699768299148196,168
+zimny start,model statyczny,10,2025-05-10,wiosna,3.0080894399256928,168
+zimny start,model statyczny,11,2025-05-17,wiosna,4.368995701131366,168
+zimny start,model statyczny,12,2025-05-24,wiosna,7.145226875373296,168
+zimny start,model statyczny,13,2025-05-31,wiosna,9.066291189193727,168
+zimny start,model statyczny,14,2025-06-07,lato,7.269884930338177,168
+zimny start,model statyczny,15,2025-06-14,lato,9.662542926697503,168
+zimny start,model statyczny,16,2025-06-21,lato,11.551132174900598,168
+zimny start,model statyczny,17,2025-06-28,lato,11.581450185321629,168
+zimny start,model statyczny,18,2025-07-05,lato,7.9565484830311375,168
+zimny start,model statyczny,19,2025-07-12,lato,9.449313678627922,168
+zimny start,model statyczny,20,2025-07-19,lato,11.643977197011312,168
+zimny start,model statyczny,21,2025-07-26,lato,9.037263918490638,168
+zimny start,model statyczny,22,2025-08-02,lato,9.337698324521384,168
+zimny start,model statyczny,23,2025-08-09,lato,12.275796566123054,168
+zimny start,model statyczny,24,2025-08-16,lato,8.462816089107879,168
+zimny start,model statyczny,25,2025-08-23,lato,9.686677001771473,168
+zimny start,model statyczny,26,2025-08-30,lato,5.691912414914086,168
+zimny start,model statyczny,27,2025-09-06,jesień,4.232827937035334,168
+zimny start,model statyczny,28,2025-09-13,jesień,5.230399252119518,168
+zimny start,model statyczny,29,2025-09-20,jesień,1.933409109569731,168
+zimny start,model statyczny,30,2025-09-27,jesień,3.2883194656599137,168
+zimny start,model statyczny,31,2025-10-04,jesień,1.7133060103371032,168
+zimny start,model statyczny,32,2025-10-11,jesień,1.6551196677344187,168
+zimny start,model statyczny,33,2025-10-18,jesień,1.728380552927653,168
+zimny start,model statyczny,34,2025-10-25,jesień,1.9318253080050152,168
+zimny start,model statyczny,35,2025-11-01,jesień,1.5263417547657376,168
+zimny start,model statyczny,36,2025-11-08,jesień,2.4493289300373626,168
+zimny start,model statyczny,37,2025-11-15,jesień,3.2818557053715702,168
+zimny start,model statyczny,38,2025-11-22,jesień,3.664426015397267,168
+zimny start,model statyczny,39,2025-11-29,jesień,1.7196384847518944,168
+zimny start,model statyczny,40,2025-12-06,zima,3.128794105705761,168
+zimny start,model statyczny,41,2025-12-13,zima,2.6720874639316685,168
+zimny start,model statyczny,42,2025-12-20,zima,2.506123999213534,168
+zimny start,model statyczny,43,2025-12-27,zima,1.609058006294072,168
+zimny start,model statyczny,44,2026-01-03,zima,5.671292053464622,168
+zimny start,model statyczny,45,2026-01-10,zima,2.0228437490362143,168
+zimny start,model statyczny,46,2026-01-17,zima,3.323367054529843,168
+zimny start,model statyczny,47,2026-01-24,zima,2.9377569209540346,168
+zimny start,model statyczny,48,2026-01-31,zima,2.6634884480016936,168
+zimny start,model statyczny,49,2026-02-07,zima,2.329985893535472,168
+zimny start,model statyczny,50,2026-02-14,zima,2.6263255990509475,168
+zimny start,model statyczny,51,2026-02-21,zima,2.670019008157154,168
+zimny start,model statyczny,52,2026-02-28,zima,1.5855227641473033,168
+zimny start,model statyczny,53,2026-03-07,wiosna,3.242992170793669,168
+zimny start,model statyczny,54,2026-03-14,wiosna,2.0614355254740944,168
+zimny start,model statyczny,55,2026-03-21,wiosna,1.8554746800944921,168
+zimny start,model statyczny,56,2026-03-28,wiosna,2.366327077043908,168
+zimny start,model statyczny,57,2026-04-04,wiosna,1.8589789009874775,168
+zimny start,model statyczny,58,2026-04-11,wiosna,4.34168003598849,168
+zimny start,model statyczny,59,2026-04-18,wiosna,3.3273443589607874,168
+zimny start,model statyczny,60,2026-04-25,wiosna,4.92329533277523,168
+zimny start,model statyczny,61,2026-05-02,wiosna,6.215690540699732,168
+zimny start,model statyczny,62,2026-05-09,wiosna,3.363178545520419,168
+zimny start,model statyczny,63,2026-05-16,wiosna,7.47319878254618,168
+zimny start,model statyczny,64,2026-05-23,wiosna,10.350448053223747,168
+zimny start,model statyczny,65,2026-05-30,wiosna,8.784516047863733,168
+zimny start,model statyczny,66,2026-06-06,lato,6.64771130368823,168
+zimny start,model statyczny,67,2026-06-13,lato,11.443562602996826,168
+zimny start,model statyczny,68,2026-06-20,lato,15.425786688781919,168
+zimny start,model statyczny,69,2026-06-27,lato,12.653280358087448,168
+zimny start,model statyczny,70,2026-07-04,lato,10.379613342739287,168
+zimny start,model statyczny,71,2026-07-11,lato,11.248772136938005,168
+zimny start,model statyczny,72,2026-07-18,lato,8.829152016412644,168
+zimny start,model statyczny,73,2026-07-25,lato,13.245883372284116,168
+zimny start,model statyczny,74,2026-08-01,lato,14.312442165897007,168
+zimny start,model statyczny,75,2026-08-08,lato,11.938909215018864,168
+zimny start,model statyczny,76,2026-08-15,lato,9.538444746108283,168
+zimny start,model statyczny,77,2026-08-22,lato,9.176465408574966,168
+zimny start,model statyczny,78,2026-08-29,lato,5.42796390397208,168
+zimny start,model statyczny,79,2026-09-05,jesień,3.807197108722868,168
+zimny start,model statyczny,80,2026-09-12,jesień,4.001757691020058,168
+zimny start,model statyczny,81,2026-09-19,jesień,1.581827319236029,168
+zimny start,model statyczny,82,2026-09-26,jesień,2.096684355962844,168
+zimny start,"co 7 dni, okno 60 dni",0,2025-03-01,wiosna,2.8446102303563663,168
+zimny start,"co 7 dni, okno 60 dni",1,2025-03-08,wiosna,2.3800475337498246,168
+zimny start,"co 7 dni, okno 60 dni",2,2025-03-15,wiosna,2.1198419443642096,168
+zimny start,"co 7 dni, okno 60 dni",3,2025-03-22,wiosna,2.786590505586494,168
+zimny start,"co 7 dni, okno 60 dni",4,2025-03-29,wiosna,2.8392876386642456,168
+zimny start,"co 7 dni, okno 60 dni",5,2025-04-05,wiosna,2.9512353394357924,168
+zimny start,"co 7 dni, okno 60 dni",6,2025-04-12,wiosna,9.422293008225305,168
+zimny start,"co 7 dni, okno 60 dni",7,2025-04-19,wiosna,2.642031286443983,168
+zimny start,"co 7 dni, okno 60 dni",8,2025-04-26,wiosna,3.3267954162188937,168
+zimny start,"co 7 dni, okno 60 dni",9,2025-05-03,wiosna,2.7740355085758934,168
+zimny start,"co 7 dni, okno 60 dni",10,2025-05-10,wiosna,2.695588022186643,168
+zimny start,"co 7 dni, okno 60 dni",11,2025-05-17,wiosna,3.0065925524348307,168
+zimny start,"co 7 dni, okno 60 dni",12,2025-05-24,wiosna,2.718004720551627,168
+zimny start,"co 7 dni, okno 60 dni",13,2025-05-31,wiosna,2.5119836818604244,168
+zimny start,"co 7 dni, okno 60 dni",14,2025-06-07,lato,2.441932641892206,168
+zimny start,"co 7 dni, okno 60 dni",15,2025-06-14,lato,2.551564264297485,168
+zimny start,"co 7 dni, okno 60 dni",16,2025-06-21,lato,3.877846197854905,168
+zimny start,"co 7 dni, okno 60 dni",17,2025-06-28,lato,2.3917960575648713,168
+zimny start,"co 7 dni, okno 60 dni",18,2025-07-05,lato,2.2635738225210282,168
+zimny start,"co 7 dni, okno 60 dni",19,2025-07-12,lato,2.3162368876593455,168
+zimny start,"co 7 dni, okno 60 dni",20,2025-07-19,lato,2.580760671978905,168
+zimny start,"co 7 dni, okno 60 dni",21,2025-07-26,lato,1.5813197113218762,168
+zimny start,"co 7 dni, okno 60 dni",22,2025-08-02,lato,1.8480332374572752,168
+zimny start,"co 7 dni, okno 60 dni",23,2025-08-09,lato,2.4755094289779658,168
+zimny start,"co 7 dni, okno 60 dni",24,2025-08-16,lato,2.3930394649505615,168
+zimny start,"co 7 dni, okno 60 dni",25,2025-08-23,lato,2.3274542706353323,168
+zimny start,"co 7 dni, okno 60 dni",26,2025-08-30,lato,2.1805584214982536,168
+zimny start,"co 7 dni, okno 60 dni",27,2025-09-06,jesień,1.6616629146394275,168
+zimny start,"co 7 dni, okno 60 dni",28,2025-09-13,jesień,3.0219415051596505,168
+zimny start,"co 7 dni, okno 60 dni",29,2025-09-20,jesień,4.072324097724188,168
+zimny start,"co 7 dni, okno 60 dni",30,2025-09-27,jesień,3.8749960354396276,168
+zimny start,"co 7 dni, okno 60 dni",31,2025-10-04,jesień,1.8715273930912926,168
+zimny start,"co 7 dni, okno 60 dni",32,2025-10-11,jesień,3.6553989274161203,168
+zimny start,"co 7 dni, okno 60 dni",33,2025-10-18,jesień,2.057004594235193,168
+zimny start,"co 7 dni, okno 60 dni",34,2025-10-25,jesień,1.8602003401234037,168
+zimny start,"co 7 dni, okno 60 dni",35,2025-11-01,jesień,2.4868485462097896,168
+zimny start,"co 7 dni, okno 60 dni",36,2025-11-08,jesień,1.5284440977232798,168
+zimny start,"co 7 dni, okno 60 dni",37,2025-11-15,jesień,5.857480921064105,168
+zimny start,"co 7 dni, okno 60 dni",38,2025-11-22,jesień,1.71856401544286,168
+zimny start,"co 7 dni, okno 60 dni",39,2025-11-29,jesień,2.921219556703277,168
+zimny start,"co 7 dni, okno 60 dni",40,2025-12-06,zima,4.538096526828372,168
+zimny start,"co 7 dni, okno 60 dni",41,2025-12-13,zima,1.9641045919929943,168
+zimny start,"co 7 dni, okno 60 dni",42,2025-12-20,zima,3.500313727859231,168
+zimny start,"co 7 dni, okno 60 dni",43,2025-12-27,zima,1.5761732570178406,168
+zimny start,"co 7 dni, okno 60 dni",44,2026-01-03,zima,5.373366876188361,168
+zimny start,"co 7 dni, okno 60 dni",45,2026-01-10,zima,3.862642299053481,168
+zimny start,"co 7 dni, okno 60 dni",46,2026-01-17,zima,1.982968977830994,168
+zimny start,"co 7 dni, okno 60 dni",47,2026-01-24,zima,2.130552809927169,168
+zimny start,"co 7 dni, okno 60 dni",48,2026-01-31,zima,2.420707753096663,168
+zimny start,"co 7 dni, okno 60 dni",49,2026-02-07,zima,2.5487184023323826,168
+zimny start,"co 7 dni, okno 60 dni",50,2026-02-14,zima,3.12782756300377,168
+zimny start,"co 7 dni, okno 60 dni",51,2026-02-21,zima,5.997537017118053,168
+zimny start,"co 7 dni, okno 60 dni",52,2026-02-28,zima,2.4337571175414183,168
+zimny start,"co 7 dni, okno 60 dni",53,2026-03-07,wiosna,3.044530792778269,168
+zimny start,"co 7 dni, okno 60 dni",54,2026-03-14,wiosna,2.896256615008627,168
+zimny start,"co 7 dni, okno 60 dni",55,2026-03-21,wiosna,1.761800765139716,168
+zimny start,"co 7 dni, okno 60 dni",56,2026-03-28,wiosna,1.7260800539382866,168
+zimny start,"co 7 dni, okno 60 dni",57,2026-04-04,wiosna,2.2755125664884135,168
+zimny start,"co 7 dni, okno 60 dni",58,2026-04-11,wiosna,4.011617081789743,168
+zimny start,"co 7 dni, okno 60 dni",59,2026-04-18,wiosna,2.2186857337043397,168
+zimny start,"co 7 dni, okno 60 dni",60,2026-04-25,wiosna,4.1351888080437975,168
+zimny start,"co 7 dni, okno 60 dni",61,2026-05-02,wiosna,3.5307070947828754,168
+zimny start,"co 7 dni, okno 60 dni",62,2026-05-09,wiosna,1.7648545509292963,168
+zimny start,"co 7 dni, okno 60 dni",63,2026-05-16,wiosna,2.496930015654791,168
+zimny start,"co 7 dni, okno 60 dni",64,2026-05-23,wiosna,2.612271170389085,168
+zimny start,"co 7 dni, okno 60 dni",65,2026-05-30,wiosna,3.1737897838865003,168
+zimny start,"co 7 dni, okno 60 dni",66,2026-06-06,lato,2.542399065835135,168
+zimny start,"co 7 dni, okno 60 dni",67,2026-06-13,lato,5.169400160653251,168
+zimny start,"co 7 dni, okno 60 dni",68,2026-06-20,lato,3.059465249379476,168
+zimny start,"co 7 dni, okno 60 dni",69,2026-06-27,lato,2.781941190220061,168
+zimny start,"co 7 dni, okno 60 dni",70,2026-07-04,lato,1.2957319702420915,168
+zimny start,"co 7 dni, okno 60 dni",71,2026-07-11,lato,1.8648433253878638,168
+zimny start,"co 7 dni, okno 60 dni",72,2026-07-18,lato,2.619964638210478,168
+zimny start,"co 7 dni, okno 60 dni",73,2026-07-25,lato,2.463929499898638,168
+zimny start,"co 7 dni, okno 60 dni",74,2026-08-01,lato,2.3241600785936627,168
+zimny start,"co 7 dni, okno 60 dni",75,2026-08-08,lato,2.6895623967761084,168
+zimny start,"co 7 dni, okno 60 dni",76,2026-08-15,lato,1.9585525705700828,168
+zimny start,"co 7 dni, okno 60 dni",77,2026-08-22,lato,2.045709293229239,168
+zimny start,"co 7 dni, okno 60 dni",78,2026-08-29,lato,1.569550253096081,168
+zimny start,"co 7 dni, okno 60 dni",79,2026-09-05,jesień,3.6677860861732845,168
+zimny start,"co 7 dni, okno 60 dni",80,2026-09-12,jesień,2.0569163004557294,168
+zimny start,"co 7 dni, okno 60 dni",81,2026-09-19,jesień,2.4680158739998226,168
+zimny start,"co 7 dni, okno 60 dni",82,2026-09-26,jesień,1.583055121558053,168
+zimny start,"co 14 dni, okno 60 dni",0,2025-03-01,wiosna,2.8446102303563663,168
+zimny start,"co 14 dni, okno 60 dni",1,2025-03-08,wiosna,2.486363073535973,168
+zimny start,"co 14 dni, okno 60 dni",2,2025-03-15,wiosna,2.1198419443642096,168
+zimny start,"co 14 dni, okno 60 dni",3,2025-03-22,wiosna,3.9785617696742217,168
+zimny start,"co 14 dni, okno 60 dni",4,2025-03-29,wiosna,2.8392876386642456,168
+zimny start,"co 14 dni, okno 60 dni",5,2025-04-05,wiosna,2.9384266848720255,168
+zimny start,"co 14 dni, okno 60 dni",6,2025-04-12,wiosna,9.422293008225305,168
+zimny start,"co 14 dni, okno 60 dni",7,2025-04-19,wiosna,5.812756558826992,168
+zimny start,"co 14 dni, okno 60 dni",8,2025-04-26,wiosna,3.3267954162188937,168
+zimny start,"co 14 dni, okno 60 dni",9,2025-05-03,wiosna,2.0988242643220083,168
+zimny start,"co 14 dni, okno 60 dni",10,2025-05-10,wiosna,2.695588022186643,168
+zimny start,"co 14 dni, okno 60 dni",11,2025-05-17,wiosna,2.4062748772757394,168
+zimny start,"co 14 dni, okno 60 dni",12,2025-05-24,wiosna,2.718004720551627,168
+zimny start,"co 14 dni, okno 60 dni",13,2025-05-31,wiosna,5.505842955907186,168
+zimny start,"co 14 dni, okno 60 dni",14,2025-06-07,lato,2.441932641892206,168
+zimny start,"co 14 dni, okno 60 dni",15,2025-06-14,lato,2.1301823843093146,168
+zimny start,"co 14 dni, okno 60 dni",16,2025-06-21,lato,3.877846197854905,168
+zimny start,"co 14 dni, okno 60 dni",17,2025-06-28,lato,3.653932731492179,168
+zimny start,"co 14 dni, okno 60 dni",18,2025-07-05,lato,2.2635738225210282,168
+zimny start,"co 14 dni, okno 60 dni",19,2025-07-12,lato,1.6827690317517234,168
+zimny start,"co 14 dni, okno 60 dni",20,2025-07-19,lato,2.580760671978905,168
+zimny start,"co 14 dni, okno 60 dni",21,2025-07-26,lato,1.4286962157204035,168
+zimny start,"co 14 dni, okno 60 dni",22,2025-08-02,lato,1.8480332374572752,168
+zimny start,"co 14 dni, okno 60 dni",23,2025-08-09,lato,3.2457096179326377,168
+zimny start,"co 14 dni, okno 60 dni",24,2025-08-16,lato,2.3930394649505615,168
+zimny start,"co 14 dni, okno 60 dni",25,2025-08-23,lato,2.227807703472319,168
+zimny start,"co 14 dni, okno 60 dni",26,2025-08-30,lato,2.1805584214982536,168
+zimny start,"co 14 dni, okno 60 dni",27,2025-09-06,jesień,2.6321050643920896,168
+zimny start,"co 14 dni, okno 60 dni",28,2025-09-13,jesień,3.0219415051596505,168
+zimny start,"co 14 dni, okno 60 dni",29,2025-09-20,jesień,2.6657314550308953,168
+zimny start,"co 14 dni, okno 60 dni",30,2025-09-27,jesień,3.8749960354396276,168
+zimny start,"co 14 dni, okno 60 dni",31,2025-10-04,jesień,1.86255259173257,168
+zimny start,"co 14 dni, okno 60 dni",32,2025-10-11,jesień,3.6553989274161203,168
+zimny start,"co 14 dni, okno 60 dni",33,2025-10-18,jesień,3.194521225066412,168
+zimny start,"co 14 dni, okno 60 dni",34,2025-10-25,jesień,1.8602003401234037,168
+zimny start,"co 14 dni, okno 60 dni",35,2025-11-01,jesień,2.4450785358746847,168
+zimny start,"co 14 dni, okno 60 dni",36,2025-11-08,jesień,1.5284440977232798,168
+zimny start,"co 14 dni, okno 60 dni",37,2025-11-15,jesień,4.935414344072342,168
+zimny start,"co 14 dni, okno 60 dni",38,2025-11-22,jesień,1.71856401544286,168
+zimny start,"co 14 dni, okno 60 dni",39,2025-11-29,jesień,1.6836579166047851,168
+zimny start,"co 14 dni, okno 60 dni",40,2025-12-06,zima,4.538096526828372,168
+zimny start,"co 14 dni, okno 60 dni",41,2025-12-13,zima,2.4552223208626467,168
+zimny start,"co 14 dni, okno 60 dni",42,2025-12-20,zima,3.500313727859231,168
+zimny start,"co 14 dni, okno 60 dni",43,2025-12-27,zima,1.2841329653215197,168
+zimny start,"co 14 dni, okno 60 dni",44,2026-01-03,zima,5.373366876188361,168
+zimny start,"co 14 dni, okno 60 dni",45,2026-01-10,zima,2.353533743704403,168
+zimny start,"co 14 dni, okno 60 dni",46,2026-01-17,zima,1.982968977830994,168
+zimny start,"co 14 dni, okno 60 dni",47,2026-01-24,zima,2.27678975311435,168
+zimny start,"co 14 dni, okno 60 dni",48,2026-01-31,zima,2.420707753096663,168
+zimny start,"co 14 dni, okno 60 dni",49,2026-02-07,zima,3.1210526031996344,168
+zimny start,"co 14 dni, okno 60 dni",50,2026-02-14,zima,3.12782756300377,168
+zimny start,"co 14 dni, okno 60 dni",51,2026-02-21,zima,4.7218610522071165,168
+zimny start,"co 14 dni, okno 60 dni",52,2026-02-28,zima,2.4337571175414183,168
+zimny start,"co 14 dni, okno 60 dni",53,2026-03-07,wiosna,2.8650751023065473,168
+zimny start,"co 14 dni, okno 60 dni",54,2026-03-14,wiosna,2.896256615008627,168
+zimny start,"co 14 dni, okno 60 dni",55,2026-03-21,wiosna,2.2437733831859767,168
+zimny start,"co 14 dni, okno 60 dni",56,2026-03-28,wiosna,1.7260800539382866,168
+zimny start,"co 14 dni, okno 60 dni",57,2026-04-04,wiosna,1.9736004468763158,168
+zimny start,"co 14 dni, okno 60 dni",58,2026-04-11,wiosna,4.011617081789743,168
+zimny start,"co 14 dni, okno 60 dni",59,2026-04-18,wiosna,2.3383459914298284,168
+zimny start,"co 14 dni, okno 60 dni",60,2026-04-25,wiosna,4.1351888080437975,168
+zimny start,"co 14 dni, okno 60 dni",61,2026-05-02,wiosna,4.662247515860058,168
+zimny start,"co 14 dni, okno 60 dni",62,2026-05-09,wiosna,1.7648545509292963,168
+zimny start,"co 14 dni, okno 60 dni",63,2026-05-16,wiosna,2.905397838070279,168
+zimny start,"co 14 dni, okno 60 dni",64,2026-05-23,wiosna,2.612271170389085,168
+zimny start,"co 14 dni, okno 60 dni",65,2026-05-30,wiosna,3.184940175783067,168
+zimny start,"co 14 dni, okno 60 dni",66,2026-06-06,lato,2.542399065835135,168
+zimny start,"co 14 dni, okno 60 dni",67,2026-06-13,lato,4.459248003505525,168
+zimny start,"co 14 dni, okno 60 dni",68,2026-06-20,lato,3.059465249379476,168
+zimny start,"co 14 dni, okno 60 dni",69,2026-06-27,lato,3.1758069537934803,168
+zimny start,"co 14 dni, okno 60 dni",70,2026-07-04,lato,1.2957319702420915,168
+zimny start,"co 14 dni, okno 60 dni",71,2026-07-11,lato,1.9039133855274746,168
+zimny start,"co 14 dni, okno 60 dni",72,2026-07-18,lato,2.619964638210478,168
+zimny start,"co 14 dni, okno 60 dni",73,2026-07-25,lato,2.61820612407866,168
+zimny start,"co 14 dni, okno 60 dni",74,2026-08-01,lato,2.3241600785936627,168
+zimny start,"co 14 dni, okno 60 dni",75,2026-08-08,lato,2.4077567327590215,168
+zimny start,"co 14 dni, okno 60 dni",76,2026-08-15,lato,1.9585525705700828,168
+zimny start,"co 14 dni, okno 60 dni",77,2026-08-22,lato,1.8017882699058168,168
+zimny start,"co 14 dni, okno 60 dni",78,2026-08-29,lato,1.569550253096081,168
+zimny start,"co 14 dni, okno 60 dni",79,2026-09-05,jesień,3.2245786564690726,168
+zimny start,"co 14 dni, okno 60 dni",80,2026-09-12,jesień,2.0569163004557294,168
+zimny start,"co 14 dni, okno 60 dni",81,2026-09-19,jesień,3.2171425024668374,168
+zimny start,"co 14 dni, okno 60 dni",82,2026-09-26,jesień,1.583055121558053,168
+zimny start,"co 28 dni, okno 60 dni",0,2025-03-01,wiosna,2.8446102303563663,168
+zimny start,"co 28 dni, okno 60 dni",1,2025-03-08,wiosna,2.486363073535973,168
+zimny start,"co 28 dni, okno 60 dni",2,2025-03-15,wiosna,2.2598103981775544,168
+zimny start,"co 28 dni, okno 60 dni",3,2025-03-22,wiosna,2.660334080670561,168
+zimny start,"co 28 dni, okno 60 dni",4,2025-03-29,wiosna,2.8392876386642456,168
+zimny start,"co 28 dni, okno 60 dni",5,2025-04-05,wiosna,2.9384266848720255,168
+zimny start,"co 28 dni, okno 60 dni",6,2025-04-12,wiosna,5.651213002772558,168
+zimny start,"co 28 dni, okno 60 dni",7,2025-04-19,wiosna,3.04965204681669,168
+zimny start,"co 28 dni, okno 60 dni",8,2025-04-26,wiosna,3.3267954162188937,168
+zimny start,"co 28 dni, okno 60 dni",9,2025-05-03,wiosna,2.0988242643220083,168
+zimny start,"co 28 dni, okno 60 dni",10,2025-05-10,wiosna,3.0168133622124085,168
+zimny start,"co 28 dni, okno 60 dni",11,2025-05-17,wiosna,2.258935165972937,168
+zimny start,"co 28 dni, okno 60 dni",12,2025-05-24,wiosna,2.718004720551627,168
+zimny start,"co 28 dni, okno 60 dni",13,2025-05-31,wiosna,5.505842955907186,168
+zimny start,"co 28 dni, okno 60 dni",14,2025-06-07,lato,2.1714658419291175,168
+zimny start,"co 28 dni, okno 60 dni",15,2025-06-14,lato,3.1982277699879242,168
+zimny start,"co 28 dni, okno 60 dni",16,2025-06-21,lato,3.877846197854905,168
+zimny start,"co 28 dni, okno 60 dni",17,2025-06-28,lato,3.653932731492179,168
+zimny start,"co 28 dni, okno 60 dni",18,2025-07-05,lato,2.65829028742654,168
+zimny start,"co 28 dni, okno 60 dni",19,2025-07-12,lato,3.1667809758867533,168
+zimny start,"co 28 dni, okno 60 dni",20,2025-07-19,lato,2.580760671978905,168
+zimny start,"co 28 dni, okno 60 dni",21,2025-07-26,lato,1.4286962157204035,168
+zimny start,"co 28 dni, okno 60 dni",22,2025-08-02,lato,1.9138278915768576,168
+zimny start,"co 28 dni, okno 60 dni",23,2025-08-09,lato,3.3243115663528444,168
+zimny start,"co 28 dni, okno 60 dni",24,2025-08-16,lato,2.3930394649505615,168
+zimny start,"co 28 dni, okno 60 dni",25,2025-08-23,lato,2.227807703472319,168
+zimny start,"co 28 dni, okno 60 dni",26,2025-08-30,lato,2.290421334902445,168
+zimny start,"co 28 dni, okno 60 dni",27,2025-09-06,jesień,2.3006631635484243,168
+zimny start,"co 28 dni, okno 60 dni",28,2025-09-13,jesień,3.0219415051596505,168
+zimny start,"co 28 dni, okno 60 dni",29,2025-09-20,jesień,2.6657314550308953,168
+zimny start,"co 28 dni, okno 60 dni",30,2025-09-27,jesień,5.0134189276468195,168
+zimny start,"co 28 dni, okno 60 dni",31,2025-10-04,jesień,1.6183247963587444,168
+zimny start,"co 28 dni, okno 60 dni",32,2025-10-11,jesień,3.6553989274161203,168
+zimny start,"co 28 dni, okno 60 dni",33,2025-10-18,jesień,3.194521225066412,168
+zimny start,"co 28 dni, okno 60 dni",34,2025-10-25,jesień,2.9617187511353267,168
+zimny start,"co 28 dni, okno 60 dni",35,2025-11-01,jesień,4.953060286385672,168
+zimny start,"co 28 dni, okno 60 dni",36,2025-11-08,jesień,1.5284440977232798,168
+zimny start,"co 28 dni, okno 60 dni",37,2025-11-15,jesień,4.935414344072342,168
+zimny start,"co 28 dni, okno 60 dni",38,2025-11-22,jesień,6.590296246324266,168
+zimny start,"co 28 dni, okno 60 dni",39,2025-11-29,jesień,3.3483780003729313,168
+zimny start,"co 28 dni, okno 60 dni",40,2025-12-06,zima,4.538096526828372,168
+zimny start,"co 28 dni, okno 60 dni",41,2025-12-13,zima,2.4552223208626467,168
+zimny start,"co 28 dni, okno 60 dni",42,2025-12-20,zima,2.3273523717231694,168
+zimny start,"co 28 dni, okno 60 dni",43,2025-12-27,zima,1.4839940853849318,168
+zimny start,"co 28 dni, okno 60 dni",44,2026-01-03,zima,5.373366876188361,168
+zimny start,"co 28 dni, okno 60 dni",45,2026-01-10,zima,2.353533743704403,168
+zimny start,"co 28 dni, okno 60 dni",46,2026-01-17,zima,2.439708149249089,168
+zimny start,"co 28 dni, okno 60 dni",47,2026-01-24,zima,2.45046448316037,168
+zimny start,"co 28 dni, okno 60 dni",48,2026-01-31,zima,2.420707753096663,168
+zimny start,"co 28 dni, okno 60 dni",49,2026-02-07,zima,3.1210526031996344,168
+zimny start,"co 28 dni, okno 60 dni",50,2026-02-14,zima,2.6964239172548767,168
+zimny start,"co 28 dni, okno 60 dni",51,2026-02-21,zima,6.044778456417234,168
+zimny start,"co 28 dni, okno 60 dni",52,2026-02-28,zima,2.4337571175414183,168
+zimny start,"co 28 dni, okno 60 dni",53,2026-03-07,wiosna,2.8650751023065473,168
+zimny start,"co 28 dni, okno 60 dni",54,2026-03-14,wiosna,1.9041436986909026,168
+zimny start,"co 28 dni, okno 60 dni",55,2026-03-21,wiosna,2.030030510468142,168
+zimny start,"co 28 dni, okno 60 dni",56,2026-03-28,wiosna,1.7260800539382866,168
+zimny start,"co 28 dni, okno 60 dni",57,2026-04-04,wiosna,1.9736004468763158,168
+zimny start,"co 28 dni, okno 60 dni",58,2026-04-11,wiosna,3.54738879487628,168
+zimny start,"co 28 dni, okno 60 dni",59,2026-04-18,wiosna,2.000253378067698,168
+zimny start,"co 28 dni, okno 60 dni",60,2026-04-25,wiosna,4.1351888080437975,168
+zimny start,"co 28 dni, okno 60 dni",61,2026-05-02,wiosna,4.662247515860058,168
+zimny start,"co 28 dni, okno 60 dni",62,2026-05-09,wiosna,2.243770507403782,168
+zimny start,"co 28 dni, okno 60 dni",63,2026-05-16,wiosna,5.273380013590768,168
+zimny start,"co 28 dni, okno 60 dni",64,2026-05-23,wiosna,2.612271170389085,168
+zimny start,"co 28 dni, okno 60 dni",65,2026-05-30,wiosna,3.184940175783067,168
+zimny start,"co 28 dni, okno 60 dni",66,2026-06-06,lato,2.0505260898953392,168
+zimny start,"co 28 dni, okno 60 dni",67,2026-06-13,lato,3.6714768750326976,168
+zimny start,"co 28 dni, okno 60 dni",68,2026-06-20,lato,3.059465249379476,168
+zimny start,"co 28 dni, okno 60 dni",69,2026-06-27,lato,3.1758069537934803,168
+zimny start,"co 28 dni, okno 60 dni",70,2026-07-04,lato,1.9955460173743111,168
+zimny start,"co 28 dni, okno 60 dni",71,2026-07-11,lato,2.3037786438351584,168
+zimny start,"co 28 dni, okno 60 dni",72,2026-07-18,lato,2.619964638210478,168
+zimny start,"co 28 dni, okno 60 dni",73,2026-07-25,lato,2.61820612407866,168
+zimny start,"co 28 dni, okno 60 dni",74,2026-08-01,lato,2.3585725795655024,168
+zimny start,"co 28 dni, okno 60 dni",75,2026-08-08,lato,2.736026800246466,168
+zimny start,"co 28 dni, okno 60 dni",76,2026-08-15,lato,1.9585525705700828,168
+zimny start,"co 28 dni, okno 60 dni",77,2026-08-22,lato,1.8017882699058168,168
+zimny start,"co 28 dni, okno 60 dni",78,2026-08-29,lato,2.129487977709089,168
+zimny start,"co 28 dni, okno 60 dni",79,2026-09-05,jesień,3.4639974605469477,168
+zimny start,"co 28 dni, okno 60 dni",80,2026-09-12,jesień,2.0569163004557294,168
+zimny start,"co 28 dni, okno 60 dni",81,2026-09-19,jesień,3.2171425024668374,168
+zimny start,"co 28 dni, okno 60 dni",82,2026-09-26,jesień,3.932122267995562,168
+zimny start,"co 7 dni, wszystkie dane",0,2025-03-01,wiosna,2.8446102303563663,168
+zimny start,"co 7 dni, wszystkie dane",1,2025-03-08,wiosna,2.2451577872481376,168
+zimny start,"co 7 dni, wszystkie dane",2,2025-03-15,wiosna,1.9757008242465202,168
+zimny start,"co 7 dni, wszystkie dane",3,2025-03-22,wiosna,1.7315770898546492,168
+zimny start,"co 7 dni, wszystkie dane",4,2025-03-29,wiosna,2.6206153577282314,168
+zimny start,"co 7 dni, wszystkie dane",5,2025-04-05,wiosna,2.873003996181346,168
+zimny start,"co 7 dni, wszystkie dane",6,2025-04-12,wiosna,6.6855962497847425,168
+zimny start,"co 7 dni, wszystkie dane",7,2025-04-19,wiosna,2.5506265572139193,168
+zimny start,"co 7 dni, wszystkie dane",8,2025-04-26,wiosna,3.1889618283226375,168
+zimny start,"co 7 dni, wszystkie dane",9,2025-05-03,wiosna,2.7618594022024245,168
+zimny start,"co 7 dni, wszystkie dane",10,2025-05-10,wiosna,2.528035867781866,168
+zimny start,"co 7 dni, wszystkie dane",11,2025-05-17,wiosna,2.9130565217563085,168
+zimny start,"co 7 dni, wszystkie dane",12,2025-05-24,wiosna,3.3166462069466,168
+zimny start,"co 7 dni, wszystkie dane",13,2025-05-31,wiosna,2.958823719478789,168
+zimny start,"co 7 dni, wszystkie dane",14,2025-06-07,lato,2.0997880333945864,168
+zimny start,"co 7 dni, wszystkie dane",15,2025-06-14,lato,2.423184324446179,168
+zimny start,"co 7 dni, wszystkie dane",16,2025-06-21,lato,4.378023711840312,168
+zimny start,"co 7 dni, wszystkie dane",17,2025-06-28,lato,2.3779362496875582,168
+zimny start,"co 7 dni, wszystkie dane",18,2025-07-05,lato,1.9543788978031704,168
+zimny start,"co 7 dni, wszystkie dane",19,2025-07-12,lato,2.2528878427687147,168
+zimny start,"co 7 dni, wszystkie dane",20,2025-07-19,lato,2.909793794722784,168
+zimny start,"co 7 dni, wszystkie dane",21,2025-07-26,lato,1.5570266712279546,168
+zimny start,"co 7 dni, wszystkie dane",22,2025-08-02,lato,2.101199228422982,168
+zimny start,"co 7 dni, wszystkie dane",23,2025-08-09,lato,2.9312216247831073,168
+zimny start,"co 7 dni, wszystkie dane",24,2025-08-16,lato,1.6109475862412226,168
+zimny start,"co 7 dni, wszystkie dane",25,2025-08-23,lato,2.981935359182812,168
+zimny start,"co 7 dni, wszystkie dane",26,2025-08-30,lato,2.197818774268741,168
+zimny start,"co 7 dni, wszystkie dane",27,2025-09-06,jesień,1.4128943068640574,168
+zimny start,"co 7 dni, wszystkie dane",28,2025-09-13,jesień,3.0389627365838914,168
+zimny start,"co 7 dni, wszystkie dane",29,2025-09-20,jesień,2.859050219399588,168
+zimny start,"co 7 dni, wszystkie dane",30,2025-09-27,jesień,2.5781299290202915,168
+zimny start,"co 7 dni, wszystkie dane",31,2025-10-04,jesień,1.4932797738483974,168
+zimny start,"co 7 dni, wszystkie dane",32,2025-10-11,jesień,1.8364439220655535,168
+zimny start,"co 7 dni, wszystkie dane",33,2025-10-18,jesień,1.6809400172460645,168
+zimny start,"co 7 dni, wszystkie dane",34,2025-10-25,jesień,2.0054073958169845,168
+zimny start,"co 7 dni, wszystkie dane",35,2025-11-01,jesień,1.2567109908376422,168
+zimny start,"co 7 dni, wszystkie dane",36,2025-11-08,jesień,2.14048355675879,168
+zimny start,"co 7 dni, wszystkie dane",37,2025-11-15,jesień,2.92149254797592,168
+zimny start,"co 7 dni, wszystkie dane",38,2025-11-22,jesień,3.3246636387171398,168
+zimny start,"co 7 dni, wszystkie dane",39,2025-11-29,jesień,1.059676872442166,168
+zimny start,"co 7 dni, wszystkie dane",40,2025-12-06,zima,3.051935634309692,168
+zimny start,"co 7 dni, wszystkie dane",41,2025-12-13,zima,2.631973827594803,168
+zimny start,"co 7 dni, wszystkie dane",42,2025-12-20,zima,2.449161748319775,168
+zimny start,"co 7 dni, wszystkie dane",43,2025-12-27,zima,1.5377176740472873,168
+zimny start,"co 7 dni, wszystkie dane",44,2026-01-03,zima,5.3921043187709685,168
+zimny start,"co 7 dni, wszystkie dane",45,2026-01-10,zima,2.2355812086274716,168
+zimny start,"co 7 dni, wszystkie dane",46,2026-01-17,zima,2.003949541649559,168
+zimny start,"co 7 dni, wszystkie dane",47,2026-01-24,zima,2.2016030220296843,168
+zimny start,"co 7 dni, wszystkie dane",48,2026-01-31,zima,2.0008118287992795,168
+zimny start,"co 7 dni, wszystkie dane",49,2026-02-07,zima,2.6857285344618416,168
+zimny start,"co 7 dni, wszystkie dane",50,2026-02-14,zima,2.4618958341575867,168
+zimny start,"co 7 dni, wszystkie dane",51,2026-02-21,zima,2.5281249764951923,168
+zimny start,"co 7 dni, wszystkie dane",52,2026-02-28,zima,1.918596394945468,168
+zimny start,"co 7 dni, wszystkie dane",53,2026-03-07,wiosna,2.2001963479178293,168
+zimny start,"co 7 dni, wszystkie dane",54,2026-03-14,wiosna,2.0684557723147527,168
+zimny start,"co 7 dni, wszystkie dane",55,2026-03-21,wiosna,1.4608516778264726,168
+zimny start,"co 7 dni, wszystkie dane",56,2026-03-28,wiosna,1.8383017108553932,168
+zimny start,"co 7 dni, wszystkie dane",57,2026-04-04,wiosna,2.5996575375398003,168
+zimny start,"co 7 dni, wszystkie dane",58,2026-04-11,wiosna,1.9870885797909328,168
+zimny start,"co 7 dni, wszystkie dane",59,2026-04-18,wiosna,2.0689215319497243,168
+zimny start,"co 7 dni, wszystkie dane",60,2026-04-25,wiosna,2.4169556302683692,168
+zimny start,"co 7 dni, wszystkie dane",61,2026-05-02,wiosna,2.0847184482074916,168
+zimny start,"co 7 dni, wszystkie dane",62,2026-05-09,wiosna,2.4903221215520586,168
+zimny start,"co 7 dni, wszystkie dane",63,2026-05-16,wiosna,1.5545243302981058,168
+zimny start,"co 7 dni, wszystkie dane",64,2026-05-23,wiosna,2.1515716075897218,168
+zimny start,"co 7 dni, wszystkie dane",65,2026-05-30,wiosna,2.2666339000066125,168
+zimny start,"co 7 dni, wszystkie dane",66,2026-06-06,lato,2.1608086472465877,168
+zimny start,"co 7 dni, wszystkie dane",67,2026-06-13,lato,3.733254969687689,168
+zimny start,"co 7 dni, wszystkie dane",68,2026-06-20,lato,2.7812092270169937,168
+zimny start,"co 7 dni, wszystkie dane",69,2026-06-27,lato,2.5608862184342884,168
+zimny start,"co 7 dni, wszystkie dane",70,2026-07-04,lato,1.1592323008037748,168
+zimny start,"co 7 dni, wszystkie dane",71,2026-07-11,lato,1.9692650125140236,168
+zimny start,"co 7 dni, wszystkie dane",72,2026-07-18,lato,2.243287017231896,168
+zimny start,"co 7 dni, wszystkie dane",73,2026-07-25,lato,2.361303771109808,168
+zimny start,"co 7 dni, wszystkie dane",74,2026-08-01,lato,2.6723041829608736,168
+zimny start,"co 7 dni, wszystkie dane",75,2026-08-08,lato,2.246562676202683,168
+zimny start,"co 7 dni, wszystkie dane",76,2026-08-15,lato,2.580107437996637,168
+zimny start,"co 7 dni, wszystkie dane",77,2026-08-22,lato,1.5713859932763234,168
+zimny start,"co 7 dni, wszystkie dane",78,2026-08-29,lato,1.400760691506522,168
+zimny start,"co 7 dni, wszystkie dane",79,2026-09-05,jesień,2.454480373291742,168
+zimny start,"co 7 dni, wszystkie dane",80,2026-09-12,jesień,1.4660070782616026,168
+zimny start,"co 7 dni, wszystkie dane",81,2026-09-19,jesień,1.896226175626119,168
+zimny start,"co 7 dni, wszystkie dane",82,2026-09-26,jesień,1.144363208611806,168
+zimny start,"co 14 dni, wszystkie dane",0,2025-03-01,wiosna,2.8446102303563663,168
+zimny start,"co 14 dni, wszystkie dane",1,2025-03-08,wiosna,2.486363073535973,168
+zimny start,"co 14 dni, wszystkie dane",2,2025-03-15,wiosna,1.9757008242465202,168
+zimny start,"co 14 dni, wszystkie dane",3,2025-03-22,wiosna,2.1984674269244784,168
+zimny start,"co 14 dni, wszystkie dane",4,2025-03-29,wiosna,2.6206153577282314,168
+zimny start,"co 14 dni, wszystkie dane",5,2025-04-05,wiosna,2.635405818611339,168
+zimny start,"co 14 dni, wszystkie dane",6,2025-04-12,wiosna,6.6855962497847425,168
+zimny start,"co 14 dni, wszystkie dane",7,2025-04-19,wiosna,4.321431261017208,168
+zimny start,"co 14 dni, wszystkie dane",8,2025-04-26,wiosna,3.1889618283226375,168
+zimny start,"co 14 dni, wszystkie dane",9,2025-05-03,wiosna,1.5982843240102131,168
+zimny start,"co 14 dni, wszystkie dane",10,2025-05-10,wiosna,2.528035867781866,168
+zimny start,"co 14 dni, wszystkie dane",11,2025-05-17,wiosna,2.4529593711807616,168
+zimny start,"co 14 dni, wszystkie dane",12,2025-05-24,wiosna,3.3166462069466,168
+zimny start,"co 14 dni, wszystkie dane",13,2025-05-31,wiosna,6.601862474850246,168
+zimny start,"co 14 dni, wszystkie dane",14,2025-06-07,lato,2.0997880333945864,168
+zimny start,"co 14 dni, wszystkie dane",15,2025-06-14,lato,2.104007273628598,168
+zimny start,"co 14 dni, wszystkie dane",16,2025-06-21,lato,4.378023711840312,168
+zimny start,"co 14 dni, wszystkie dane",17,2025-06-28,lato,3.739366718700954,168
+zimny start,"co 14 dni, wszystkie dane",18,2025-07-05,lato,1.9543788978031704,168
+zimny start,"co 14 dni, wszystkie dane",19,2025-07-12,lato,1.9454843135107132,168
+zimny start,"co 14 dni, wszystkie dane",20,2025-07-19,lato,2.909793794722784,168
+zimny start,"co 14 dni, wszystkie dane",21,2025-07-26,lato,1.616028977575756,168
+zimny start,"co 14 dni, wszystkie dane",22,2025-08-02,lato,2.101199228422982,168
+zimny start,"co 14 dni, wszystkie dane",23,2025-08-09,lato,3.6688253629775276,168
+zimny start,"co 14 dni, wszystkie dane",24,2025-08-16,lato,1.6109475862412226,168
+zimny start,"co 14 dni, wszystkie dane",25,2025-08-23,lato,3.1341254313786826,168
+zimny start,"co 14 dni, wszystkie dane",26,2025-08-30,lato,2.197818774268741,168
+zimny start,"co 14 dni, wszystkie dane",27,2025-09-06,jesień,1.5911178747812909,168
+zimny start,"co 14 dni, wszystkie dane",28,2025-09-13,jesień,3.0389627365838914,168
+zimny start,"co 14 dni, wszystkie dane",29,2025-09-20,jesień,2.2269379581723894,168
+zimny start,"co 14 dni, wszystkie dane",30,2025-09-27,jesień,2.5781299290202915,168
+zimny start,"co 14 dni, wszystkie dane",31,2025-10-04,jesień,1.3041069218090602,168
+zimny start,"co 14 dni, wszystkie dane",32,2025-10-11,jesień,1.8364439220655535,168
+zimny start,"co 14 dni, wszystkie dane",33,2025-10-18,jesień,1.8687842704000928,168
+zimny start,"co 14 dni, wszystkie dane",34,2025-10-25,jesień,2.0054073958169845,168
+zimny start,"co 14 dni, wszystkie dane",35,2025-11-01,jesień,1.2430029125440687,168
+zimny start,"co 14 dni, wszystkie dane",36,2025-11-08,jesień,2.14048355675879,168
+zimny start,"co 14 dni, wszystkie dane",37,2025-11-15,jesień,3.067026654648639,168
+zimny start,"co 14 dni, wszystkie dane",38,2025-11-22,jesień,3.3246636387171398,168
+zimny start,"co 14 dni, wszystkie dane",39,2025-11-29,jesień,1.6668766741064331,168
+zimny start,"co 14 dni, wszystkie dane",40,2025-12-06,zima,3.051935634309692,168
+zimny start,"co 14 dni, wszystkie dane",41,2025-12-13,zima,2.561626732118783,168
+zimny start,"co 14 dni, wszystkie dane",42,2025-12-20,zima,2.449161748319775,168
+zimny start,"co 14 dni, wszystkie dane",43,2025-12-27,zima,1.40615099402965,168
+zimny start,"co 14 dni, wszystkie dane",44,2026-01-03,zima,5.3921043187709685,168
+zimny start,"co 14 dni, wszystkie dane",45,2026-01-10,zima,1.7326517982707759,168
+zimny start,"co 14 dni, wszystkie dane",46,2026-01-17,zima,2.003949541649559,168
+zimny start,"co 14 dni, wszystkie dane",47,2026-01-24,zima,2.2271288291201925,168
+zimny start,"co 14 dni, wszystkie dane",48,2026-01-31,zima,2.0008118287992795,168
+zimny start,"co 14 dni, wszystkie dane",49,2026-02-07,zima,2.690861997141647,168
+zimny start,"co 14 dni, wszystkie dane",50,2026-02-14,zima,2.4618958341575867,168
+zimny start,"co 14 dni, wszystkie dane",51,2026-02-21,zima,2.381911759371204,168
+zimny start,"co 14 dni, wszystkie dane",52,2026-02-28,zima,1.918596394945468,168
+zimny start,"co 14 dni, wszystkie dane",53,2026-03-07,wiosna,2.1466905698889778,168
+zimny start,"co 14 dni, wszystkie dane",54,2026-03-14,wiosna,2.0684557723147527,168
+zimny start,"co 14 dni, wszystkie dane",55,2026-03-21,wiosna,1.4656602835371382,168
+zimny start,"co 14 dni, wszystkie dane",56,2026-03-28,wiosna,1.8383017108553932,168
+zimny start,"co 14 dni, wszystkie dane",57,2026-04-04,wiosna,2.591602392281805,168
+zimny start,"co 14 dni, wszystkie dane",58,2026-04-11,wiosna,1.9870885797909328,168
+zimny start,"co 14 dni, wszystkie dane",59,2026-04-18,wiosna,2.1076997969831743,168
+zimny start,"co 14 dni, wszystkie dane",60,2026-04-25,wiosna,2.4169556302683692,168
+zimny start,"co 14 dni, wszystkie dane",61,2026-05-02,wiosna,2.1115451880863736,168
+zimny start,"co 14 dni, wszystkie dane",62,2026-05-09,wiosna,2.4903221215520586,168
+zimny start,"co 14 dni, wszystkie dane",63,2026-05-16,wiosna,1.549037608646211,168
+zimny start,"co 14 dni, wszystkie dane",64,2026-05-23,wiosna,2.1515716075897218,168
+zimny start,"co 14 dni, wszystkie dane",65,2026-05-30,wiosna,2.330727471624102,168
+zimny start,"co 14 dni, wszystkie dane",66,2026-06-06,lato,2.1608086472465877,168
+zimny start,"co 14 dni, wszystkie dane",67,2026-06-13,lato,3.3810484420685545,168
+zimny start,"co 14 dni, wszystkie dane",68,2026-06-20,lato,2.7812092270169937,168
+zimny start,"co 14 dni, wszystkie dane",69,2026-06-27,lato,3.187484456243969,168
+zimny start,"co 14 dni, wszystkie dane",70,2026-07-04,lato,1.1592323008037748,168
+zimny start,"co 14 dni, wszystkie dane",71,2026-07-11,lato,1.943803148042588,168
+zimny start,"co 14 dni, wszystkie dane",72,2026-07-18,lato,2.243287017231896,168
+zimny start,"co 14 dni, wszystkie dane",73,2026-07-25,lato,2.2738707440240042,168
+zimny start,"co 14 dni, wszystkie dane",74,2026-08-01,lato,2.6723041829608736,168
+zimny start,"co 14 dni, wszystkie dane",75,2026-08-08,lato,1.8820725520451866,168
+zimny start,"co 14 dni, wszystkie dane",76,2026-08-15,lato,2.580107437996637,168
+zimny start,"co 14 dni, wszystkie dane",77,2026-08-22,lato,1.554725741204761,168
+zimny start,"co 14 dni, wszystkie dane",78,2026-08-29,lato,1.400760691506522,168
+zimny start,"co 14 dni, wszystkie dane",79,2026-09-05,jesień,2.3519941534314834,168
+zimny start,"co 14 dni, wszystkie dane",80,2026-09-12,jesień,1.4660070782616026,168
+zimny start,"co 14 dni, wszystkie dane",81,2026-09-19,jesień,1.933590238434928,168
+zimny start,"co 14 dni, wszystkie dane",82,2026-09-26,jesień,1.144363208611806,168
+zimny start,"co 28 dni, wszystkie dane",0,2025-03-01,wiosna,2.8446102303563663,168
+zimny start,"co 28 dni, wszystkie dane",1,2025-03-08,wiosna,2.486363073535973,168
+zimny start,"co 28 dni, wszystkie dane",2,2025-03-15,wiosna,2.2598103981775544,168
+zimny start,"co 28 dni, wszystkie dane",3,2025-03-22,wiosna,2.660334080670561,168
+zimny start,"co 28 dni, wszystkie dane",4,2025-03-29,wiosna,2.6206153577282314,168
+zimny start,"co 28 dni, wszystkie dane",5,2025-04-05,wiosna,2.635405818611339,168
+zimny start,"co 28 dni, wszystkie dane",6,2025-04-12,wiosna,5.244569484960465,168
+zimny start,"co 28 dni, wszystkie dane",7,2025-04-19,wiosna,3.1523749113082893,168
+zimny start,"co 28 dni, wszystkie dane",8,2025-04-26,wiosna,3.1889618283226375,168
+zimny start,"co 28 dni, wszystkie dane",9,2025-05-03,wiosna,1.5982843240102131,168
+zimny start,"co 28 dni, wszystkie dane",10,2025-05-10,wiosna,2.6136356064251496,168
+zimny start,"co 28 dni, wszystkie dane",11,2025-05-17,wiosna,2.350388813018799,168
+zimny start,"co 28 dni, wszystkie dane",12,2025-05-24,wiosna,3.3166462069466,168
+zimny start,"co 28 dni, wszystkie dane",13,2025-05-31,wiosna,6.601862474850246,168
+zimny start,"co 28 dni, wszystkie dane",14,2025-06-07,lato,2.850955317133949,168
+zimny start,"co 28 dni, wszystkie dane",15,2025-06-14,lato,4.554201380411784,168
+zimny start,"co 28 dni, wszystkie dane",16,2025-06-21,lato,4.378023711840312,168
+zimny start,"co 28 dni, wszystkie dane",17,2025-06-28,lato,3.739366718700954,168
+zimny start,"co 28 dni, wszystkie dane",18,2025-07-05,lato,2.9224875836145308,168
+zimny start,"co 28 dni, wszystkie dane",19,2025-07-12,lato,2.7400090319769723,168
+zimny start,"co 28 dni, wszystkie dane",20,2025-07-19,lato,2.909793794722784,168
+zimny start,"co 28 dni, wszystkie dane",21,2025-07-26,lato,1.616028977575756,168
+zimny start,"co 28 dni, wszystkie dane",22,2025-08-02,lato,1.9856720697312125,168
+zimny start,"co 28 dni, wszystkie dane",23,2025-08-09,lato,3.6133368389947074,168
+zimny start,"co 28 dni, wszystkie dane",24,2025-08-16,lato,1.6109475862412226,168
+zimny start,"co 28 dni, wszystkie dane",25,2025-08-23,lato,3.1341254313786826,168
+zimny start,"co 28 dni, wszystkie dane",26,2025-08-30,lato,2.09608716851189,168
+zimny start,"co 28 dni, wszystkie dane",27,2025-09-06,jesień,1.54965383098239,168
+zimny start,"co 28 dni, wszystkie dane",28,2025-09-13,jesień,3.0389627365838914,168
+zimny start,"co 28 dni, wszystkie dane",29,2025-09-20,jesień,2.2269379581723894,168
+zimny start,"co 28 dni, wszystkie dane",30,2025-09-27,jesień,3.283742843923114,168
+zimny start,"co 28 dni, wszystkie dane",31,2025-10-04,jesień,1.3730505313192096,168
+zimny start,"co 28 dni, wszystkie dane",32,2025-10-11,jesień,1.8364439220655535,168
+zimny start,"co 28 dni, wszystkie dane",33,2025-10-18,jesień,1.8687842704000928,168
+zimny start,"co 28 dni, wszystkie dane",34,2025-10-25,jesień,2.1165619378998164,168
+zimny start,"co 28 dni, wszystkie dane",35,2025-11-01,jesień,1.2903323860395524,168
+zimny start,"co 28 dni, wszystkie dane",36,2025-11-08,jesień,2.14048355675879,168
+zimny start,"co 28 dni, wszystkie dane",37,2025-11-15,jesień,3.067026654648639,168
+zimny start,"co 28 dni, wszystkie dane",38,2025-11-22,jesień,3.413862684009863,168
+zimny start,"co 28 dni, wszystkie dane",39,2025-11-29,jesień,1.5843220082067309,168
+zimny start,"co 28 dni, wszystkie dane",40,2025-12-06,zima,3.051935634309692,168
+zimny start,"co 28 dni, wszystkie dane",41,2025-12-13,zima,2.561626732118783,168
+zimny start,"co 28 dni, wszystkie dane",42,2025-12-20,zima,2.4624707165218536,168
+zimny start,"co 28 dni, wszystkie dane",43,2025-12-27,zima,1.4575270755748666,168
+zimny start,"co 28 dni, wszystkie dane",44,2026-01-03,zima,5.3921043187709685,168
+zimny start,"co 28 dni, wszystkie dane",45,2026-01-10,zima,1.7326517982707759,168
+zimny start,"co 28 dni, wszystkie dane",46,2026-01-17,zima,2.744108390552269,168
+zimny start,"co 28 dni, wszystkie dane",47,2026-01-24,zima,2.496264078699806,168
+zimny start,"co 28 dni, wszystkie dane",48,2026-01-31,zima,2.0008118287992795,168
+zimny start,"co 28 dni, wszystkie dane",49,2026-02-07,zima,2.690861997141647,168
+zimny start,"co 28 dni, wszystkie dane",50,2026-02-14,zima,2.6777838355240724,168
+zimny start,"co 28 dni, wszystkie dane",51,2026-02-21,zima,2.4282145810978752,168
+zimny start,"co 28 dni, wszystkie dane",52,2026-02-28,zima,1.918596394945468,168
+zimny start,"co 28 dni, wszystkie dane",53,2026-03-07,wiosna,2.1466905698889778,168
+zimny start,"co 28 dni, wszystkie dane",54,2026-03-14,wiosna,1.9752521907999403,168
+zimny start,"co 28 dni, wszystkie dane",55,2026-03-21,wiosna,1.4544430077075958,168
+zimny start,"co 28 dni, wszystkie dane",56,2026-03-28,wiosna,1.8383017108553932,168
+zimny start,"co 28 dni, wszystkie dane",57,2026-04-04,wiosna,2.591602392281805,168
+zimny start,"co 28 dni, wszystkie dane",58,2026-04-11,wiosna,1.9008214933531626,168
+zimny start,"co 28 dni, wszystkie dane",59,2026-04-18,wiosna,2.1024898494992934,168
+zimny start,"co 28 dni, wszystkie dane",60,2026-04-25,wiosna,2.4169556302683692,168
+zimny start,"co 28 dni, wszystkie dane",61,2026-05-02,wiosna,2.1115451880863736,168
+zimny start,"co 28 dni, wszystkie dane",62,2026-05-09,wiosna,2.3249268418266658,168
+zimny start,"co 28 dni, wszystkie dane",63,2026-05-16,wiosna,1.6438266566821507,168
+zimny start,"co 28 dni, wszystkie dane",64,2026-05-23,wiosna,2.1515716075897218,168
+zimny start,"co 28 dni, wszystkie dane",65,2026-05-30,wiosna,2.330727471624102,168
+zimny start,"co 28 dni, wszystkie dane",66,2026-06-06,lato,1.9822157598677137,168
+zimny start,"co 28 dni, wszystkie dane",67,2026-06-13,lato,3.3650268736339757,168
+zimny start,"co 28 dni, wszystkie dane",68,2026-06-20,lato,2.7812092270169937,168
+zimny start,"co 28 dni, wszystkie dane",69,2026-06-27,lato,3.187484456243969,168
+zimny start,"co 28 dni, wszystkie dane",70,2026-07-04,lato,1.1156711532956076,168
+zimny start,"co 28 dni, wszystkie dane",71,2026-07-11,lato,1.9664827505747478,168
+zimny start,"co 28 dni, wszystkie dane",72,2026-07-18,lato,2.243287017231896,168
+zimny start,"co 28 dni, wszystkie dane",73,2026-07-25,lato,2.2738707440240042,168
+zimny start,"co 28 dni, wszystkie dane",74,2026-08-01,lato,2.5596037694386076,168
+zimny start,"co 28 dni, wszystkie dane",75,2026-08-08,lato,2.0974987427393597,168
+zimny start,"co 28 dni, wszystkie dane",76,2026-08-15,lato,2.580107437996637,168
+zimny start,"co 28 dni, wszystkie dane",77,2026-08-22,lato,1.554725741204761,168
+zimny start,"co 28 dni, wszystkie dane",78,2026-08-29,lato,1.4532472235815863,168
+zimny start,"co 28 dni, wszystkie dane",79,2026-09-05,jesień,2.3868565332321894,168
+zimny start,"co 28 dni, wszystkie dane",80,2026-09-12,jesień,1.4660070782616026,168
+zimny start,"co 28 dni, wszystkie dane",81,2026-09-19,jesień,1.933590238434928,168
+zimny start,"co 28 dni, wszystkie dane",82,2026-09-26,jesień,1.239043760867346,168

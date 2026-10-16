@@ -1,0 +1,7 @@
+# Python 3.12
+requests==2.34.2
+pandas==3.0.6
+numpy==2.5.3
+scikit-learn==1.9.1
+xgboost==3.4.1
+mlflow==3.16.1
