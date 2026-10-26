@@ -8,7 +8,7 @@ Przebieg uruchomień rejestrowany jest w MLflow.
 ## Struktura projektu
 
 ```
-Program/
+wroclaw-temperature-ml-pipeline/
 ├── collect_data.py            # Moduł 1: pobieranie danych z Open-Meteo i zapis do bazy
 ├── train.py                   # Moduł 2: trenowanie modelu bazowego, funkcje wspólne
 ├── retrain.py                 # Moduł 3: mechanizm douczania i wdrażania modelu
@@ -51,7 +51,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-Wszystkie polecenia należy uruchamiać z katalogu `Program/`.
+Wszystkie polecenia należy uruchamiać z katalogu `wroclaw-temperature-ml-pipeline/`.
 
 ## Uruchomienie krok po kroku
 
@@ -197,8 +197,8 @@ do czasu pierwszego uruchomienia `train.py`, `retrain.py` lub `evaluate.py`.
 Codzienne pobieranie danych można zaplanować w Harmonogramie zadań:
 
 1. Utwórz zadanie podstawowe z wyzwalaczem codziennym (np. 8:00).
-2. Akcja: uruchom `C:\ścieżka\do\Program\.venv\Scripts\python.exe`
-   z argumentem `collect_data.py --mode daily`, katalog startowy: `C:\ścieżka\do\Program`.
+2. Akcja: uruchom `C:\ścieżka\do\wroclaw-temperature-ml-pipeline\.venv\Scripts\python.exe`
+   z argumentem `collect_data.py --mode daily`, katalog startowy: `C:\ścieżka\do\wroclaw-temperature-ml-pipeline`.
 
 Analogicznie można zaplanować `retrain.py`. Zgodnie z wnioskami z eksperymentu P3 w pierwszym
 roku działania systemu douczanie warto uruchamiać co tydzień, a gdy model zna już pełny cykl
